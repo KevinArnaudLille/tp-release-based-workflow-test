@@ -1,5 +1,5 @@
 {
-  "name": "Release-Based Workflow",
+  "name": "Release-Based Workflow test",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspaces",
